@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "type": "video",
+  "provider_name": "Stellicast",
+  "provider_url": "https://your-domain.example",
+  "title": "Stellicast Video",
+  "width": 1280,
+  "height": 720,
+  "html": "<iframe src=\"https://my-nextjs-video.vercel.app/api/embed\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen></iframe>"
+}
